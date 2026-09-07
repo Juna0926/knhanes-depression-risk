@@ -5,7 +5,7 @@
 **Period:** 2025  
 **Affiliation:** Machine Learning & Data Mining Laboratory, Ajou University  
 **Output:** Korean Society for Clinical Chemistry 2025 Fall Meeting - Healthcare Big Data Analysis Competition report  
-**Role:** Representative / project lead listed on the submitted report  
+**Role:** Representative author listed on the submitted report  
 **Core methods:** K-Means · SMOTE · Random Forest
 
 ---
@@ -40,28 +40,21 @@ Raw KNHANES / linked environmental data are not redistributed in this repository
 
 The submitted report found that the most important variables differed substantially by cluster. Examples included nutritional / chronic-disease factors in older low-energy groups, lifestyle and social-support factors in younger groups, and environmental exposure in a middle-aged fine-dust-exposed profile.
 
-![Cluster-specific feature importance](assets/figure-01-cluster-feature-importance.png)
+![Cluster-specific feature importance](assets/figure-01-cluster-feature-importance.svg)
 
-![Additional subgroup feature importance](assets/figure-02-subgroup-feature-importance.png)
+![Subgroup heterogeneity](assets/figure-02-subgroup-feature-importance.svg)
 
 The value of the approach is therefore not a single universal feature ranking, but the identification of **different risk structures across population subgroups**.
 
-![Intervention summary](assets/figure-03-intervention-summary.png)
+![Intervention summary](assets/figure-03-intervention-summary.svg)
 
-## My contribution
+## Project provenance
 
-The submitted report lists **Junha Won as representative author**, with Seungju Jung and Seunghyun Park as team members. The project covered:
-
-- Data integration and preprocessing
-- Clustering and imbalance handling
-- Machine-learning model comparison
-- Cluster-specific feature-importance analysis
-- Interpretation of risk profiles and intervention implications
-- Competition report preparation
+The submitted report lists **Junha Won as representative author**, with Seungju Jung and Seunghyun Park as co-authors. The repository documents the report's data integration, subgroup modeling, feature-importance interpretation, and intervention framing without claiming individual contribution beyond what the source explicitly records.
 
 ## Project output
 
-- [`outputs/knhanes-air-pollution-depression-analysis-report.pdf`](outputs/knhanes-air-pollution-depression-analysis-report.pdf) - full submitted analysis report.
+- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance, verified analysis structure, and public-safe evidence summary.
 
 ## Limitations
 
