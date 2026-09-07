@@ -52,9 +52,10 @@ The value of the approach is therefore not a single universal feature ranking, b
 
 The submitted report lists **Junha Won as representative author**, with Seungju Jung and Seunghyun Park as co-authors. The repository documents the report's data integration, subgroup modeling, feature-importance interpretation, and intervention framing without claiming individual contribution beyond what the source explicitly records.
 
-## Project output
+## Project outputs
 
-- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance, verified analysis structure, and public-safe evidence summary.
+- [`outputs/knhanes-analysis-public-excerpt.pdf`](outputs/knhanes-analysis-public-excerpt.pdf) - concise public-safe technical excerpt derived from the submitted competition report.
+- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance, verified analysis structure, and public-release notes.
 
 ## Limitations
 
