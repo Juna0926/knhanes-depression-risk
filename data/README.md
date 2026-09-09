@@ -1,5 +1,5 @@
 # Data availability
 
-The submitted public report is included, but the underlying KNHANES and linked environmental datasets are **not redistributed** in this repository.
+The underlying KNHANES and linked environmental datasets are **not redistributed** in this repository.
 
-Users should obtain source datasets directly from their original providers and follow the applicable terms of use.
+A **public-safe technical excerpt** derived from the submitted analysis report is provided under `outputs/`, together with selected figures and provenance notes. Users should obtain source datasets directly from their original providers and follow the applicable terms of use.
