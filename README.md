@@ -19,6 +19,12 @@ The final workflow connected:
 
 **health + lifestyle + socioeconomic + nutrition + environmental exposure data → subgroup profiling → depression-risk prediction**.
 
+## Portfolio-aligned main figure
+
+![KNHANES subgroup profiling report figure](https://raw.githubusercontent.com/Juna0926/Portfolio/main/assets/media/project-knhanes-detail.svg)
+
+*Representative figure synchronized with the current Portfolio detail page. It summarizes the five K-Means subgroup profiles reported in the final project material.*
+
 ## Data
 
 The submitted analysis used data from **2014, 2016, 2020, and 2022** and combined examination, health-questionnaire, nutrition, and environmental-exposure variables.
@@ -46,6 +52,8 @@ Raw KNHANES and linked environmental data are not redistributed in this reposito
 The final portfolio version reports an **average AUC of 0.7378** across the subgroup-specific depression-risk modeling pipeline.
 
 The project showed that the most important predictors differed across clusters, supporting the idea that depression-risk structure is **heterogeneous rather than uniform across the population**.
+
+## Supporting repository figures
 
 ![Cluster-specific feature importance](assets/figure-01-cluster-feature-importance.svg)
 
